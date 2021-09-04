@@ -1,0 +1,8 @@
+.vscode
+*.exe
+*.raw
+*.rav
+*.daw
+*.mp3
+*.flac
+*.opus
